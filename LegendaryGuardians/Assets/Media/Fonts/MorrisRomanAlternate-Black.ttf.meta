@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c76e83fad29e54e9e8bbe4ae3bbd95c3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Morris Roman Alternate
+  fontNames:
+  - Morris Roman Alternate
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b46053ec68b59492db08dcfe8842f696, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
