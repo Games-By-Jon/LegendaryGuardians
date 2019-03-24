@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_Scripts\Menus\MainMenu.cs" />
      <Compile Include="Assets\VideoLogoIntro.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/jonathan/Desktop/_GameDev/_Projects/_MyGames/_CrossPlatformGames/LegendaryGuardians/LegendaryGuardians/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
